@@ -15,6 +15,15 @@
 * Importar los registros de estudiantes.csv; desde la interfaz de administración, opción **import**
 * Importar los registros de matriculas.csv; desde la interfaz de administración, opción **import**
 
+## Foto De la obtencion de las Matriculas 
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://github.com/PlataformasWeb-P-AA2024/taller09-semana10-grupo-1/blob/main/imagenes/consolaResultado.png" width="800px">
+</p>
+</div>
+
+
 
 ## Desarrollo taller - Semana 10
 

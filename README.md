@@ -19,7 +19,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/PlataformasWeb-P-AA2024/taller09-semana10-grupo-1/blob/main/imagenes/consolaResultado.png" width="800px">
+<img src="https://github.com/PlataformasWeb-P-AA2024/taller09-semana10-grupo-1/blob/main/imagenes/consoloResultado.png" width="800px">
 </p>
 </div>
 
